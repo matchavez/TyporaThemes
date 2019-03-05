@@ -65,9 +65,9 @@ select,
 textarea {
     font-style: normal;
     line-height: 1.25rem;
-    font-family: "SF UI Text","Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Avenir Next","SF UI Text","Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 550;
-    letter-spacing: -0.75px;
+    letter-spacing: -0.6px;
 }
 
 hr {
@@ -112,7 +112,7 @@ h2 {
     /* 24px */
     letter-spacing: -1px;
     font-weight: bold;
-    color: #eee8d5;
+    color: #fee8d5;
 }
 
 h3 {
